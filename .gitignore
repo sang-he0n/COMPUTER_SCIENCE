@@ -1,0 +1,12 @@
+#Files
+*.DS_Store
+*.pptx
+*.svg
+
+#Directories
+**/css
+**/data
+**/markdown
+**/output
+**/model
+**/temp
